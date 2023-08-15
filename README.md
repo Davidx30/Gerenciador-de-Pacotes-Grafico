@@ -25,3 +25,8 @@ Este é um **programa de gerenciamento de bibliotecas Python** que permite **lis
 - Sempre verifique os **termos de uso** das bibliotecas que você está instalando ou removendo.
 - Este programa foi criado com fins **educativos** e não deve ser usado para atividades maliciosas.
 
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="Le me trying to install libraries"/>
+</p>

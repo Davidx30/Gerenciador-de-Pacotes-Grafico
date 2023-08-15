@@ -28,5 +28,5 @@ Este é um **programa de gerenciamento de bibliotecas Python** que permite **lis
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="Le me trying to install libraries"/>
+  <img src="https://media.giphy.com/media/y5W98cY6OCudO/giphy.gif" alt="Le me trying to install libraries"/>
 </p>

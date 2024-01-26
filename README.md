@@ -18,7 +18,7 @@ Este é um **programa de gerenciamento de bibliotecas Python** que permite **lis
 
 ## 🛠️ Requisitos
 - **Python 3.x**
-- Bibliotecas: `subprocess`, `tkinter`, `tkinter.messagebox`, `tkinter.ttk`, `tkinter.simpledialog`, `tkinter.filedialog`, `tkinter as tk`, `tqdm`
+- Bibliotecas: `PySide6`
 
 ## ⚠️ Notas
 - Certifique-se de executar o programa em um ambiente Python onde o pip esteja instalado e configurado corretamente.
